@@ -1,0 +1,20 @@
+# Archivos de entorno
+.env
+
+# Configuración de VS Code
+.vscode/
+
+# Archivos de cache de Python
+__pycache__/
+*.pyc
+
+# Carpetas de logs o temporales
+*.log
+*.tmp
+
+# Archivos de imagenes o pruebas (ajustalo si querés subir alguna imagen)
+img/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
